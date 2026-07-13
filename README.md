@@ -1,8 +1,10 @@
 <p align="center">
-<img src="./banner.png" width="100%">
+  <img src="./banner.png" width="100%">
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="./avatar-anime.png" width="220">
+</p>
 
 # 💖 Olá, eu sou a Eduarda Coelho!
 
