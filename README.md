@@ -12,7 +12,9 @@
 
 ### 💻 Estudante de Sistemas de Informação • IFES Serra
 
-<img src="https://readme-typing-svg.demolab.com?...">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Eduarda+Coelho;Sistemas+de+Informa%C3%A7%C3%A3o+-+IFES;Networking+%7C+Databases+%7C+Machine+Learning;Pesquisadora+em+Seguran%C3%A7a+de+Redes" alt="Typing SVG" />
+</p>
 
 <br>
 
