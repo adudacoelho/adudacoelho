@@ -1,8 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Banner">
+</p>
 
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img src="./avatar-anime.png" width="220" alt="Avatar da Eduarda">
 </p>
+
+<div align="center">
 
 # 💖 Olá, eu sou a Eduarda Coelho!
 
@@ -15,7 +19,6 @@
 ![](https://komarev.com/ghpvc/?username=adudacoelho&style=for-the-badge&color=ff69b4)
 
 </div>
----
 
 # 🌸 Sobre mim
 
@@ -50,13 +53,11 @@ class Eduarda:
 
 ---
 
-# 📊 Estatísticas
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=adudacoelho&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF69B4&icon_color=C084FC"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adudacoelho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adudacoelho&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adudacoelho&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -76,11 +77,9 @@ class Eduarda:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adudacoelho&theme=radical&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=adudacoelho&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
-
----
 
 # 📈 Gráfico de Contribuições
 
