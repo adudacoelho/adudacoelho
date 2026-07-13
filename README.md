@@ -1,3 +1,5 @@
+<div align="center">
+
 <p align="center">
   <img src="./banner.png" width="100%">
 </p>
@@ -6,14 +8,13 @@
 
 ### 💻 Estudante de Sistemas de Informação • IFES Serra
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Bem-vinda(o)+ao+meu+GitHub!;Apaixonada+por+Redes+de+Computadores;Banco+de+Dados+%F0%9F%97%84%EF%B8%8F;Machine+Learning+aplicado+a+Redes;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?...">
 
 <br>
 
 ![](https://komarev.com/ghpvc/?username=adudacoelho&style=for-the-badge&color=ff69b4)
 
 </div>
-
 ---
 
 # 🌸 Sobre mim
