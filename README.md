@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./avatar-anime.png" width="220" alt="Avatar da Eduarda">
+  <img src="./avatar-anime.jpeg" width="220" alt="Avatar da Eduarda">
 </p>
 
 <div align="center">
