@@ -2,10 +2,6 @@
   <img src="./banner.png" width="100%">
 </p>
 
-<p align="center">
-  <img src="./avatar-anime.png" width="220">
-</p>
-
 # 💖 Olá, eu sou a Eduarda Coelho!
 
 ### 💻 Estudante de Sistemas de Informação • IFES Serra
